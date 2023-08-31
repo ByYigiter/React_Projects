@@ -1,4 +1,4 @@
-import '../03-sepet-uygulama/SepetHome.css';
+import './SepetHome.css'
 import {useState, useEffect} from 'react'
 import Header from '../03-sepet-uygulama/Header';
 import Product from '../03-sepet-uygulama/Product';
