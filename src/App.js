@@ -6,8 +6,6 @@ import SepetApp from './components/03-sepet-uygulama/SepetApp'
 import AutoCompleteApp from './components/04-autoComplete/AutoCompleteApp'
 import BarcodeApp from './components/05-barcod/BarcodeApp'
 
-
-
 const App = () => {
   return (
     <div>
